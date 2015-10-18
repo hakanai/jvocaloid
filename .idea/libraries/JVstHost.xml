@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JVstHost">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/JVstHost.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
